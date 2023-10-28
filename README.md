@@ -29,7 +29,9 @@ Here are some ideas to get you started:
   
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pelinustunel&show_icons=true&locale=en&layout=compact" alt="pelinustunel" /></p>
+  
 
+<p>&nbsp;<img align="right" src="https://github.com/pelinustunel/pelinustunel/assets/95417579/11aafa40-c663-4ef0-a564-bf3a4f92f1f8" alt="pelinustunel" width =300 /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
