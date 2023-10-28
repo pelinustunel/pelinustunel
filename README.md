@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-
+<p>&nbsp;<img align="center" src="https://user-images.githubusercontent.com/74038190/216656934-0dd55b98-a77e-4d26-8865-9147906e0f99.gif" alt="pelinustunel" width=300 /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pelinustunel&show_icons=true&locale=en" alt="pelinustunel" /></p>
