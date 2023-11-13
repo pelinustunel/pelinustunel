@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p>&nbsp;<img align="center" src="https://user-images.githubusercontent.com/74038190/216656934-0dd55b98-a77e-4d26-8865-9147906e0f99.gif" alt="pelinustunel" width=100 /></p>
+<p>&nbsp;<img align="center" src="https://user-images.githubusercontent.com/74038190/216656934-0dd55b98-a77e-4d26-8865-9147906e0f99.gif" alt="pelinustunel" width=50 /></p>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pelinustunel&theme=tokyonight-duo)](https://git.io/streak-stats)
